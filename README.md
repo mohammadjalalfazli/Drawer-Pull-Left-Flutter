@@ -4,7 +4,8 @@ A new Flutter project for Drawer pull from left to right to show menu.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter applications.
+In this project i devloped the hidden menu feature, Which you can use it in your applications.
 
 A few resources to get you started if this is your first Flutter project:
 
